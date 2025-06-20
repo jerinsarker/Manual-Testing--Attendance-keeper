@@ -5,4 +5,7 @@ AttendanceKeeper – Web-Based Employee Attendance & Leave Management System
 Project URL:
 https://www.attendancekeeper.net
 ## Project Overview:
-I tested the AttendanceKeeper web application, a complete system for managing employee attendance, leave requests, work logs, and user accounts with different access roles (Admin, Manager, Employee). My role focused on identifying and reporting functional and UI bugs across multiple modules 
+I tested the AttendanceKeeper web application, a complete system for managing employee attendance, leave requests, work logs, and user accounts with different access roles (Admin, Manager, Employee). My role focused on identifying and reporting functional and UI bugs across multiple modules .
+# What I Have Done In This Project:
+- Web application testing (cross-browser)-Chrome
+- Excel for test case writing and bug tracking
